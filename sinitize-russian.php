@@ -1,10 +1,10 @@
 <?php
 /*
   Plugin Name: Sanitize Russian Urls and Filenames
-  Plugin URI:
-  Description:
+  Plugin URI: https://github.com/4selin/sanitize-russian
+  Description: Транслитерация руских букв для ссылок и файлов
   Author: Alexey Selin <4selin@gmail.com>
-  Version: 0.1.0
+  Version: 0.1.1
  */
 
 function sanitizze( $title ) {
